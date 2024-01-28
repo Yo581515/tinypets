@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
+remote_theme: daattali/beautiful-jekyll
 plugins:
 - jekyll-remote-theme
 
